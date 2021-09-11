@@ -11,3 +11,4 @@
 ;; Set up the visible bell
 (setq visible-bell t)
 
+(set-face-attribute 'default nil :font "Iosevka Term" :height 150)
